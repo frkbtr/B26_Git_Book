@@ -4,3 +4,7 @@ this is editor notes
  
     Chapter 1 is good
     keep going on chapter 2 
+    
+    
+    more information : 
+    more java more fun!
